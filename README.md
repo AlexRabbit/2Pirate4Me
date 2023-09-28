@@ -6,6 +6,4 @@ Download "2Pirate4Me" batch and open it as administrator. Done.
 
 ## Currently supported:
 
-Luminar Neo
-Filmora
-Adobe Products
+Luminar Neo, Filmora, Adobe Products
